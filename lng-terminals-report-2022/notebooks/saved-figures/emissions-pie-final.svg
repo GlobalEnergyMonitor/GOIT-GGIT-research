@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 228 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,0,73.3462)">
+        <path d="M29.124,47.441C33.281,59.62 40.619,70.469 50.376,78.86C60.132,87.252 71.957,92.884 84.621,95.173C97.284,97.461 110.333,96.323 122.409,91.877C134.485,87.43 145.157,79.836 153.313,69.882L97.461,24.115L29.124,47.441Z" style="fill:rgb(193,193,193);fill-rule:nonzero;stroke:white;stroke-width:1.5px;"/>
+    </g>
+    <g transform="matrix(0.899188,0.437562,0.437562,-0.899188,-19.2544,129.339)">
+        <path d="M161.248,63.02C162.551,68.496 163.209,74.106 163.209,79.734C163.209,85.363 162.551,90.973 161.248,96.449L91,79.734L161.248,63.02Z" style="fill:rgb(221,81,58);fill-rule:nonzero;stroke:white;stroke-width:1.5px;"/>
+    </g>
+    <g transform="matrix(0.9891,0.147247,0.147247,-0.9891,-11.7396,174.293)">
+        <path d="M168.721,86.915C168.844,88.632 168.905,90.353 168.905,92.074C168.905,93.796 168.844,95.517 168.721,97.234L96.697,92.074L168.721,86.915Z" style="fill:rgb(193,193,193);fill-rule:nonzero;stroke:white;stroke-width:1.5px;"/>
+    </g>
+    <g transform="matrix(0.999273,0.0381288,0.0381288,-0.999273,-3.51404,189.76)">
+        <path d="M169.538,93.329C169.573,94.246 169.591,95.164 169.591,96.082C169.591,97 169.573,97.918 169.538,98.835L97.382,96.082L169.538,93.329Z" style="fill:rgb(193,193,193);fill-rule:nonzero;stroke:white;stroke-width:1.5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-49.6244)">
+        <path d="M169.67,147.085C169.67,136.603 167.387,126.245 162.981,116.733C158.575,107.222 152.15,98.783 144.153,92.004C136.157,85.226 126.78,80.27 116.676,77.48C106.571,74.691 95.979,74.135 85.638,75.851C75.297,77.567 65.453,81.515 56.791,87.419C48.129,93.323 40.856,101.043 35.478,110.041C30.101,119.039 26.746,129.101 25.649,139.526C24.552,149.951 25.737,160.491 29.124,170.411L97.461,147.085L169.67,147.085Z" style="fill:rgb(193,193,193);fill-rule:nonzero;stroke:white;stroke-width:1.5px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-1)">
+        <text x="47.251px" y="17.152px" style="font-family:'Helvetica';font-size:7px;">Combustion</text>
+        <text x="64.611px" y="24.632px" style="font-family:'Helvetica';font-size:7px;">55.3%</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,2)">
+        <text x="52.999px" y="173.673px" style="font-family:'Helvetica';font-size:7px;">Upstream</text>
+        <text x="63.492px" y="181.153px" style="font-family:'Helvetica';font-size:7px;">33.8%</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-7,13)">
+        <text x="168.883px" y="130.3px" style="font-family:'Helvetica';font-size:7px;">Liquefaction</text>
+        <text x="168.883px" y="137.78px" style="font-family:'Helvetica';font-size:7px;">7.4%</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-3,7)">
+        <text x="176.025px" y="107.159px" style="font-family:'Helvetica';font-size:7px;">Shipping</text>
+        <text x="176.025px" y="114.729px" style="font-family:'Helvetica';font-size:7px;">2.3%</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-2,-5)">
+        <text x="176.833px" y="98.527px" style="font-family:'Helvetica';font-size:7px;">Regasiﬁcation</text>
+        <text x="176.833px" y="106.097px" style="font-family:'Helvetica';font-size:7px;">1.2%</text>
+    </g>
+</svg>
